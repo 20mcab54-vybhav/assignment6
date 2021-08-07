@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type = "text/xsl" href="ex4.xsl"?>
+<emp>
+<s>
+ <eno> 1001 </eno>
+ <name> 
+	<fname> abc </fname>
+	<lname> dcb </lname>
+	<mname> nbb</mname>
+ </name>
+ <fathername> xyz </fathername>
+ <DOB> 20-11-1984</DOB>
+ <city> Manglore</city>
+ <state>Karnataka  </state>
+ <qualification> Diploma </qualification>
+</s>
+<s>
+ <eno> 1002 </eno>
+ <name> 
+	<fname> Ramesh </fname>
+	<lname> Pav </lname>
+	<mname> Singh </mname>
+ </name>
+ <fathername> Suresh Singh Gill </fathername>
+ <DOB> 18-02-2000 </DOB>
+ <city> Manipal </city>
+ <state> Karnataka </state>
+ <qualification> MCA </qualification>
+</s>
+<s>
+ <eno> 1003 </eno>
+ <name> 
+	<fname> Naresh</fname>
+	<lname> Sharma </lname>
+	<mname> S </mname>
+ </name>
+ <fathername> Vinay Sharma </fathername>
+ <DOB> 18-03-1867 </DOB>
+ <city> Chennai </city>
+ <state> TN </state>
+ <qualification>B.tech</qualification>
+</s>
+</emp>
+
+
